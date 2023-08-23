@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Luiz Lima!!
 
 - 🎯 Graduando em Análise e Desenvolvimento de Sistemas
-- 📊 Estudando Python para BD, DS, e Automações 
-- 〽️ SQL para Análise de Dados e AWS para Cloud
+- 📊 Estudando AWS + Python 
+- 〽️ SQL para Análise de Dados
 - 💬 Contate-me no email: luizlyma@live.com
 
 
