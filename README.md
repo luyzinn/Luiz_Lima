@@ -5,7 +5,7 @@
 - 〽️ Pyhton + SQL para Análise de Dados
 
 
-- ## 📖 Experiência com:
+- ### 📖 Experiência com:
 
 - ☁️ AWS/Cloud
 - 🐍 Python
