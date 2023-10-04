@@ -18,7 +18,7 @@
   <img align="center" alt="Luiz-Vsc" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="Luiz-AWS" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Luiz-Mysql" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img aling="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img align="center" alt="Luiz-Linux" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
  </div>
   
   ##
