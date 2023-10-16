@@ -3,6 +3,7 @@
 - 🎯 Graduando em Análise e Desenvolvimento de Sistemas
 - 📊 Profissional Certificado AWS Cloud Practitioner 
 - 〽️ Pyhton + SQL para Análise de Dados
+- ⚡ DBA SQL 
 
 
 ### 📖 Experiência com:
@@ -14,11 +15,14 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Luiz-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luiz-Vsc" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
-  <img align="center" alt="Luiz-AWS" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Luiz-Mysql" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Luiz-Linux" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Luiz-AWS" height="25" width="110" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img align="center" alt="Luiz-Python" height="25" width="85" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img align="center" alt="Luiz-Pandas" height="25" width="85" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+  <img align="center" alt="Luiz-NumPy" height="25" width="85" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  <img align="center" alt="Luiz-SqlServer" height="25" width="145" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <img align="center" alt="Luiz-Linux" height="25" width="85" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img align="center" alt="Luiz-PopOs" height="25" width="85" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white">
+  <img align="center" alt="Luiz-Vsc" height="25" width="85" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
  </div>
   
   ##
